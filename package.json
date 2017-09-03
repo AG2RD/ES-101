@@ -1,0 +1,26 @@
+{
+  "name": "es-101",
+  "version": "1.0.0",
+  "description": "sandbox es",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AG2RD/ES-101.git"
+  },
+  "keywords": [
+    "sandbox",
+    "ecmascript"
+  ],
+  "author": "adrien gérard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AG2RD/ES-101/issues"
+  },
+  "homepage": "https://github.com/AG2RD/ES-101#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
